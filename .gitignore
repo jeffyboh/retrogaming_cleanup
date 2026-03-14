@@ -1,3 +1,6 @@
+# output of what this script crates in the current directory
+rom_catalog.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
